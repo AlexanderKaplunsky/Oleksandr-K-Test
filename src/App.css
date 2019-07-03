@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+}
+.links li {
+  text-align: left;
+  font-size: 14px;
+}

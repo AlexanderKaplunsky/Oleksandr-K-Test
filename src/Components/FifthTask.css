@@ -1,0 +1,13 @@
+.table {
+  height: 130px;
+  width: 130px;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  margin: 20px auto;
+}
+.table td {
+  width: 20px;
+  height: 20px;
+  border: 2px solid;
+}
